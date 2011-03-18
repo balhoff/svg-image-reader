@@ -1,0 +1,2 @@
+This is an implementation of javax.imageio.ImageReader for SVG images, using the Apache Batik toolkit. It was extracted from the much larger source code for the Volantis Mobility Server:
+http://sourceforge.net/projects/volmobserverce/
